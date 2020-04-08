@@ -1,0 +1,6 @@
+OBSERVABLE TRENDS
+
+1. Of the 1163 players included in the dataset, the vast majority (484) are male (~84%). In comparison to this, there is only ~14% female presence on the team.
+2. Maximum percentage of players fall between age-group 20-24 (44.79%) with secondary groups falling between 15-19 (18.58%) and 25-29 (13.37%).
+3. Females on the team spend more than men based on the Average total purchase per person (4.47 for females vs 4.07 for males)
+4. The age group "20-24" spends the most money with 1,114.06 dollars as total purchase value and an average purchase of 4.32. This could be because they are bigger in numbers because based on "Average purchase total per person", age-group 35-39 tops list with the value being 4.76.
